@@ -3,6 +3,10 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+Creado Por: Bruno Elias Pérez Merino
+
+https://dsaw-2025-i.github.io/tailwind-bootstrap-BrunoPMerino/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
